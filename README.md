@@ -1,2 +1,2 @@
-# Handwriting-Analysis
-Predicting Human Behavior based on Handwriting
+# Behavior Prediction based on Handwriting using Machine Learning
+Predicting Human Behavior based on their Handwriting.
