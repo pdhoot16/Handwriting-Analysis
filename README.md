@@ -34,3 +34,7 @@ These features indicate the **social** and **emotional behavioural traits** of a
 5. Model building: The obtained dataset was then fed to various machine learning models to test for performance and prediction accuracy.
 
 
+![GitHub Logo](Mapping.PNG)
+
+Table 1: Feature – Label Mapping
+
