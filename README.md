@@ -41,11 +41,11 @@ Table: Personality-Label Mapping
 
 3. Feature vectors: Once the labelled dataset was ready, using imutils package's image processing functions, the feature vectors were calculated from the image.
 
-3.1 Baseline - For this, the starting points of the line (left-most point) is taken as (x1,y1) and the end point of the line (right-most point) is taken as (x2,y2) and the proportional slope of the line calculated using the formula – (y2 – y1).
+**3.1 Baseline** - For this, the starting points of the line (left-most point) is taken as (x1,y1) and the end point of the line (right-most point) is taken as (x2,y2) and the proportional slope of the line calculated using the formula – (y2 – y1).
 
-3.2 Word Spacing - Average word spacing = | Sum of distances between words ÷ Number of words |
+**3.2 Word Spacing** - Average word spacing = | Sum of distances between words ÷ Number of words |
 
-3.3 Pen Pressure - Otsu’s thresholding method, grey scale values ranges from 0 to 255, 0 for black pixels and 255 for white.
+**3.3 Pen Pressure** - Otsu’s thresholding method, grey scale values ranges from 0 to 255, 0 for black pixels and 255 for white.
 
 4. Trait mapping: The feature vectors are normalized and mapped to the human traits based on the manual labelling.
 
