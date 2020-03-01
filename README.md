@@ -49,10 +49,10 @@ Table: Personality – Label Mapping
 
 4. Trait mapping: The feature vectors are normalized and mapped to the human traits based on the manual labelling.
 
-5. Model building: The obtained dataset was then fed to various machine learning models to test for performance and prediction accuracy.
+5. Model building: The obtained dataset is then fed to various machine learning models to test for performance and prediction accuracy.
 
 
-
+![GitHub Logo](Accuracy_comparision.PNG)
 
 
 
